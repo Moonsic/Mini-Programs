@@ -1,6 +1,6 @@
 # Mini-Programs
 
-# @麋鹿-Moonsic
+# 麋鹿-Moonsic 小程序作品集
 
 <a name="1c56fdf1"></a>
 # 作品一：表情包自制神器
@@ -51,3 +51,4 @@
 ![TableGame-50-333.jpg](https://cdn.nlark.com/yuque/0/2019/jpeg/270441/1558662349015-fe720adc-71d5-44a2-a1a8-89603146c1af.jpeg#align=left&display=inline&height=320&name=TableGame-50-333.jpg&originHeight=1280&originWidth=1280&size=269390&status=done&width=320)
 
 
+> 两个公司小程序就不分享了
