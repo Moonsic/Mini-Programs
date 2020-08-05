@@ -26,29 +26,3 @@
 ![BeautifulMap-50.jpg](https://cdn.nlark.com/yuque/0/2019/jpeg/270441/1551623231542-4fbce250-c661-4bb0-b79e-8abec97dd1db.jpeg#align=left&display=inline&height=320&name=BeautifulMap-50.jpg&originHeight=1280&originWidth=1280&size=282160&status=done&width=320)
 
 
-<a name="c5af3e82"></a>
-# 作品五：六学表情包大全
-
-![sixstudy-50.jpg](https://cdn.nlark.com/yuque/0/2019/jpeg/270441/1558662036791-132b7334-7f96-4969-ad0c-17d98f348c83.jpeg#align=left&display=inline&height=320&name=sixstudy-50.jpg&originHeight=1280&originWidth=1280&size=336030&status=done&width=320)
-
-
-<a name="X4bif"></a>
-# 作品六：麋鹿择音
-
-![ElkIsland-50.jpg](https://cdn.nlark.com/yuque/0/2019/jpeg/270441/1551623715841-42f51644-b612-4d80-a686-6706aff8cf3d.jpeg#align=left&display=inline&height=320&name=ElkIsland-50.jpg&originHeight=1280&originWidth=1280&size=272634&status=done&width=320)
-
-
-
-<a name="6ac754cc"></a>
-# 作品七：热门手机推荐
-
-![Phones-50.jpg](https://cdn.nlark.com/yuque/0/2019/jpeg/270441/1558662331285-3278cc46-c83b-41ab-8a63-1c85c21b09cd.jpeg#align=left&display=inline&height=320&name=Phones-50.jpg&originHeight=1280&originWidth=1280&size=325581&status=done&width=320)
-
-
-<a name="XPqMm"></a>
-# 作品八：餐桌休闲游戏
-
-![TableGame-50-333.jpg](https://cdn.nlark.com/yuque/0/2019/jpeg/270441/1558662349015-fe720adc-71d5-44a2-a1a8-89603146c1af.jpeg#align=left&display=inline&height=320&name=TableGame-50-333.jpg&originHeight=1280&originWidth=1280&size=269390&status=done&width=320)
-
-
-> 两个公司小程序就不分享了
