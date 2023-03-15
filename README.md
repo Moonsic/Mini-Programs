@@ -1,6 +1,6 @@
 # Mini-Programs
 
-# 麋鹿-Moonsic 小程序作品集
+# Moonsic 小程序作品集
 
 <a name="1c56fdf1"></a>
 # 作品一：表情包自制神器
